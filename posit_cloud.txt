@@ -1,0 +1,5 @@
+picture profile > Settings > Developer settings >Personal access tokens (classic)
+
+
+/cloud/project$ git config --global user.email "pondgiffin@gmail.com"
+/cloud/project$ git config --global user.name "siwat kan"
