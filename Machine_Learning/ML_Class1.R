@@ -209,3 +209,5 @@ paste('MSE of Test:',mse_metric(test_data$Price , p))
 
 p1 <- ggplot(df_house, aes(Price)) +
   geom_histogram(bins=30)
+
+## test push
